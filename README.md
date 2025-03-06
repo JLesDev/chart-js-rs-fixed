@@ -2,6 +2,8 @@
   <img width="200" src="https://raw.githubusercontent.com/Billy-Sheppard/chart-js-rs/main/examples/favicon.png" alt="Material Bread logo">
 </p>
 
+BROKEN PROGRAM
+
 # Chart.js types API in Rust 
 [![crates.io](https://img.shields.io/crates/v/chart-js-rs.svg)](https://crates.io/crates/chart-js-rs)
 [![docs.rs](https://docs.rs/chart-js-rs/badge.svg)](https://docs.rs/chart-js-rs)
